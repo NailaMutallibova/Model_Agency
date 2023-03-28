@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0ef0f19a.css",
+    "main.js": "./static/js/main.c04ff0ba.js",
+    "static/js/27.31317ddd.chunk.js": "./static/js/27.31317ddd.chunk.js",
+    "static/media/model4.jpg": "./static/media/model4.8dc1b2f38a185a1cfca3.jpg",
+    "static/media/model1.2.jpg": "./static/media/model1.2.4cec9eb85729db0ea0f6.jpg",
+    "static/media/model1.4.jpeg": "./static/media/model1.4.e7c2d60f948703f11360.jpeg",
+    "static/media/model3.2.jpg": "./static/media/model3.2.b8b20c5831f85ff2ff39.jpg",
+    "static/media/model4.3.jpg": "./static/media/model4.3.5dbb4e27f6342796ed5b.jpg",
+    "static/media/model4_4.jpg": "./static/media/model4_4.2a9f3b673df224cb1257.jpg",
+    "static/media/model3.4.jpg": "./static/media/model3.4.4c50b6a5edea9e8942d0.jpg",
+    "static/media/model3.5.jpg": "./static/media/model3.5.66f96248aaf2eb665d4a.jpg",
+    "static/media/model4.5.jpg": "./static/media/model4.5.b9983ad4844f201f43f5.jpg",
+    "static/media/city.webp": "./static/media/city.fbc021bdd41fcbef02a9.webp",
+    "static/media/model1.5.jpg": "./static/media/model1.5.d99b2fd5a5f56b4615c9.jpg",
+    "static/media/model1.jpg": "./static/media/model1.9a8304000de8c0c87c15.jpg",
+    "static/media/model3.6.jpg": "./static/media/model3.6.4cc47039e1d6c3b615c6.jpg",
+    "static/media/model3.1.jpg": "./static/media/model3.1.97c42246f54535630b0e.jpg",
+    "static/media/model3.jpg": "./static/media/model3.dcfa54ad156fc75c528f.jpg",
+    "static/media/model2.jpg": "./static/media/model2.e8cfa83dea66fe265223.jpg",
+    "static/media/back.webp": "./static/media/back.2a00e2119551a4eca6d1.webp",
+    "static/media/model8.jpg": "./static/media/model8.e7f6775090270eb8dbc5.jpg",
+    "static/media/model6.jpg": "./static/media/model6.bac0268de3536c432564.jpg",
+    "static/media/model5.jpg": "./static/media/model5.e3dc0db51f9537c9c1f0.jpg",
+    "static/media/model4.2.jpg": "./static/media/model4.2.c72252099125b1ec73db.jpg",
+    "static/media/model2.2.jpg": "./static/media/model2.2.3a03f70ee8b21cb6baa3.jpg",
+    "static/media/model7.jpg": "./static/media/model7.6aab68b853f88e1f343e.jpg",
+    "static/media/model1.3.jpg": "./static/media/model1.3.ab5c3b8fd3cc4082981d.jpg",
+    "static/media/model3.7.jpg": "./static/media/model3.7.a85af6955eb9c1f63fa8.jpg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0ef0f19a.css",
+    "static/js/main.c04ff0ba.js"
+  ]
+}
